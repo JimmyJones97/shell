@@ -1,0 +1,6 @@
+C:/Users/ChenD/OneDrive - bupt.edu.cn/working/TestApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+C:/Users/ChenD/OneDrive - bupt.edu.cn/working/TestApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/hello2.dir
+C:/Users/ChenD/OneDrive - bupt.edu.cn/working/TestApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/hello.dir
+C:/Users/ChenD/OneDrive - bupt.edu.cn/working/TestApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ChenD/OneDrive - bupt.edu.cn/working/TestApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/test5.dir
+C:/Users/ChenD/OneDrive - bupt.edu.cn/working/TestApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
