@@ -1,3 +1,0 @@
-C:/Users/ChenD/OneDrive - bupt.edu.cn/working/ShellApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/shell.dir
-C:/Users/ChenD/OneDrive - bupt.edu.cn/working/ShellApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/ChenD/OneDrive - bupt.edu.cn/working/ShellApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

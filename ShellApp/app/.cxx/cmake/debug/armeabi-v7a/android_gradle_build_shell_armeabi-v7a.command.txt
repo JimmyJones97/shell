@@ -1,7 +1,0 @@
-Executable : C:\Users\ChenD\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
-arguments : 
--C
-C:\Users\ChenD\OneDrive - bupt.edu.cn\working\ShellApp\app\.cxx\cmake\debug\armeabi-v7a
-shell
-jvmArgs : 
-
